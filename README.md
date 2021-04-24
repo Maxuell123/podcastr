@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Podcastr" title="Podcastr" src="/logo.svg" width="220px" />
+  <img alt="Podcastr" title="Podcastr" src="images/favicon.png" width="220px" />
 </h1>
 
 <p align="center">
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
- <img src="/Home1.png" alt="Home" />
- <img src="/Home2.png" alt="Home2" />
- <img src="/Interna.png" alt="Interna" />
+ <img src="images/Home1.png" alt="Home" />
+ <img src="images/Home2.png" alt="Home2" />
+ <img src="images/Interna.png" alt="Interna" />
  
 </p>
 

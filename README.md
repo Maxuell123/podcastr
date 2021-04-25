@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img alt="Podcastr" src="images/favicon.png" width="20%">
+  <img alt="Podcastr" src="images/favicon.png" width="5%">
 </p>
 
 

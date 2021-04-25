@@ -36,7 +36,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto <p align="center"><img alt="Podcastr" src="images/favicon.png" width="5%"></p>
 
-O Podcastr é uma aplicação para escutar varios tipos de podcastr online. 
+O Podcastr é uma aplicação para escutar varios tipos de podcastr online.
+<p align="center"><img alt="Podcastr" src="images/favicon.png" width="5%"></p>
 
 ## 🔖 Layout
 

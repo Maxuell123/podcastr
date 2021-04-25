@@ -1,5 +1,8 @@
 <h1 align="center">
   <img alt="Podcastr" title="Podcastr" src="images/logo1.svg" width="220px" />
+
+  <img alt="Podcastr" title="Podcastr" src="images/favicon.png" width="50px" />
+
 </h1>
 
 <p align="center">
@@ -18,9 +21,11 @@
 
 <br>
 
+
 <p align="center">
   <img alt="Podcastr" src="images/favicon.png" width="100%">
 </p>
+
 
 ## 🚀 Tecnologias
 

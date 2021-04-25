@@ -18,7 +18,7 @@
 </p>
 
 <br>
-
+<p align="center"><img alt="Podcastr" src="images/favicon.png" width="5%"></p>
 
 
   
@@ -34,10 +34,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Typescript
 
-## 💻 Projeto <p align="center"><img alt="Podcastr" src="images/favicon.png" width="5%"></p>
+## 💻 Projeto 
 
 O Podcastr é uma aplicação para escutar varios tipos de podcastr online.
-<p align="center"><img alt="Podcastr" src="images/favicon.png" width="5%"></p>
+
 
 ## 🔖 Layout
 

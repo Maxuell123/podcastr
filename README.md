@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Typescript
 
-## 💻 Projeto 
+## 💻 Projeto Rocketseat NLW#5 
 
 O Podcastr é uma aplicação para escutar varios tipos de podcastr online.
 
